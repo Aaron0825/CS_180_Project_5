@@ -1,0 +1,4 @@
+mary@purdue.edu
+0987654321
+Course: English; Quizzes: Spongebob_Quiz.txt, Tree_Quiz.txt
+Course: Math; Quizzes: Tree_Quiz.txt
